@@ -1,0 +1,8 @@
+{
+  "index": "简介",
+  "start": "入门",
+  "starknet": "Starknet架构",
+  "cairo": "Cairo智能合约",
+  "frontend": "前端开发",
+  "account_abstraction": "账户抽象"
+}
